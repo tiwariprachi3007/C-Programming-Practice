@@ -1,0 +1,56 @@
+# 🖥️ C Programming Practice
+
+A collection of beginner-friendly **C programs** covering fundamental concepts: input/output, decision-making, loops, arrays, functions, and recursion.  
+This repository is ideal for **first-year B.Tech students** learning, practicing, and building a strong foundation in C programming.
+
+---
+
+## 📂 Folder Structure
+- **1_Basics-and-Arithmetic** – Input/Output and simple mathematical formulas  
+- **2_Decision_Control** – Conditional logic using if-else and switch-case  
+- **3_Loops_Series** – Loops, series, and patterns  
+- **4_Arrays-and-Matrices** – 1-D arrays and 2-D matrix operations  
+- **5_Functions-and-Recursion** – Modular programming and recursion  
+
+---
+
+## 📝 Programs Overview
+
+### 1. Basics and Arithmetic
+- `temp_converter.c` – Convert Celsius to Fahrenheit  
+- `interest_calc.c` – Calculate Simple & Compound Interest  
+- `salary_calc.c` – Total salary with HRA, TA, DA  
+- `shop_bill.c` – Mango shop bill with discount  
+- `triangle_area.c` – Area of triangle using three sides  
+- `square_n_nums.c` – Print squares of n numbers  
+
+### 2. Decision Control
+- `even_odd.c` – Check if a number is even or odd  
+- `largest_three.c` – Find largest of three numbers  
+- `electricity_bill.c` – Generate electricity bill (Uttarakhand slabs)  
+- `grading_system.c` – Student grade calculator  
+- `leap_year.c` – Leap year check  
+- `quadratic_roots.c` – Real roots of quadratic equation  
+- `char_classifier.c` – Classify character type  
+
+### 3. Loops and Series
+- `range_sum.c` – Sum of even and odd numbers in a range  
+- `fibonacci.c` – Fibonacci series up to n terms  
+- `digit_sum.c` – Sum of digits of a number  
+- `armstrong_check.c` – Armstrong number check  
+- `palindrome_check.c` – Palindrome check  
+- `alternating_series.c` – Series: 1 - 1/3 + 1/5 - 1/7 ...  
+- `star_pattern.c` – Nested star pattern  
+
+### 4. Arrays and Matrices
+- `array_search.c` – Search element in 1-D array  
+- `array_max_min.c` – Find max and min in 1-D array  
+- `array_sort.c` – Sort a 1-D array  
+- `array_addition.c` – Add two arrays (unequal sizes)  
+  
+### 5. Functions and Recursion
+- `func_sum_n.c` – Sum of first n integers  
+- `func_prime.c` – Prime number check  
+- `rec_digit_sum.c` – Sum of digits using recursion  
+- `rec_ncr.c` – nCr using recursive factorial  
+
