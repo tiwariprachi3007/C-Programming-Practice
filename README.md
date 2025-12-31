@@ -51,6 +51,7 @@ This repository is ideal for **first-year B.Tech students** learning, practicing
 + array_max_min.c    – Find max and min in 1-D array
 + array_sort.c       – Sort a 1-D array
 + array_addition.c   – Add two arrays (unequal sizes)
++ gst_calculator.c   - Calculate GST on a given amount
   
 ### 5. Functions and Recursion
 
@@ -62,3 +63,12 @@ This repository is ideal for **first-year B.Tech students** learning, practicing
 + table_print.c       – Prints multiplication table of a given number
 + price_calculate.c   – Calculates total price based on quantity and unit cost
 + square_lib.c        – Calculate square of a number using library functions
+
+
+### 6. Pointers
+
++ function_in_pointer.c       - Demonstrates passing pointers to functions
++ max_no.c                    - Find maximum of two numbers using pointers
++ sum_prd_avg_of2no.c         - Compute sum, product, and average of two numbers using pointers
++ swap_two_numbers.c          - Swap two numbers using pointers
++ value_print_from_ptr_ptr.c  - Print values using pointer to pointer
