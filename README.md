@@ -9,8 +9,8 @@ This repository is ideal for **first-year B.Tech students** learning, practicing
 - **1_Basics-and-Arithmetic** – Input/Output and simple mathematical formulas  
 - **2_Decision_Control** – Conditional logic using if-else and switch-case  
 - **3_Loops_Series** – Loops, series, and patterns  
-- **4_Arrays-and-Matrices** – 1-D arrays and 2-D matrix operations  
-- **5_Functions-and-Recursion** – Modular programming and recursion  
+- **4_Arrays-and-Matrices** – 1-D arrays and 2-D matrix operation  
+- **5_Functions-and-Recursion** – Modular programming and recursion
 
 ---
 
