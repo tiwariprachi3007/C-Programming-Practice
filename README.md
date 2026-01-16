@@ -1,4 +1,5 @@
-# 🖥️ C Programming Practice
+# 🖥️ C Programming Practice 
+
 
 A collection of beginner-friendly **C programs** covering fundamental concepts: input/output, decision-making, loops, arrays, functions, and recursion.  
 This repository is ideal for **first-year B.Tech students** learning, practicing, and building a strong foundation in C programming.
