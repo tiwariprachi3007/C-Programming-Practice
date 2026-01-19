@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Prachi Tiwari/Desktop/endsem.c",
-      "program": "c:/Users/Prachi Tiwari/Desktop/endsem.c/build/Debug/outDebug",
+      "cwd": "c:/Users/Prachi Tiwari/OneDrive/Desktop/C Programming Practice/2d_array.c",
+      "program": "c:/Users/Prachi Tiwari/OneDrive/Desktop/C Programming Practice/2d_array.c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
