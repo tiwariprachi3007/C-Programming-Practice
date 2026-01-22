@@ -5,6 +5,7 @@ A collection of beginner-friendly **C programs** covering fundamental concepts: 
 This repository is ideal for **first-year B.Tech students** learning, practicing, and building a strong foundation in C programming.
 
 
+
 ## 📂 Folder Structure
 - **1_Basics-and-Arithmetic** – Input/Output and simple mathematical formulas  
 - **2_Decision_Control** – Conditional logic using if-else and switch-case  
