@@ -73,3 +73,11 @@ This repository is ideal for **first-year B.Tech students** learning, practicing
 + sum_prd_avg_of2no.c         - Compute sum, product, and average of two numbers using pointers
 + swap_two_numbers.c          - Swap two numbers using pointers
 + value_print_from_ptr_ptr.c  - Print values using pointer to pointer
+
+
+### 7. STRING
+
++ _toggle.c             -  Toggles case of characters in a string.
++ CharCHECK.C           -   Checks type of character (alphabet, digit, special).
++ VowelAndConCount.c    - Counts vowels and consonants in a string.
+ 
