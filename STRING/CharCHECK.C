@@ -13,7 +13,7 @@ int main(){
         }
         else if (str[i]>='a' && str[i]<='z')
         {
-            printf("%c is capital letter\n",str[i]);
+            printf("%c is small letter\n",str[i]);
         }
         else if (str[i]>='0'&& str[i]<='9')
         {
