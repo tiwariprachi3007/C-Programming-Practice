@@ -18,7 +18,6 @@ int main(){
         for(i=0;i<r;i++){
             ld=ld+arr[i][i];
             rd=rd+arr[i][r-i-1];
-
         }
         printf("sum of left diagonal :%d\n",ld);
         printf("sum of right diagonal is %d\n",rd);

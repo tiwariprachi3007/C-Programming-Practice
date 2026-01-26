@@ -6,7 +6,8 @@ int main()
     scanf("%d%d",&r,&c); 
     printf("Enter the Matrix: "); 
     for(i=0; i<=r-1; i++) 
-    { 
+    
+    {
         for(j=0; j<=c-1; j++) 
         { 
             scanf("%d",&arr[i][j]); 
