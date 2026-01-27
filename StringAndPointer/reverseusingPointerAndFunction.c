@@ -13,7 +13,7 @@ int main()
 void myStrRev(char *p) 
 { 
     int l=0, i, j; 
-    char Temp; 
+    char Temp ;
     while(*(p+l)!='\0') 
     { 
         l=l+1; 
@@ -24,4 +24,5 @@ void myStrRev(char *p)
         *(p+i) = *(p+j); 
         *(p+j) = Temp; 
     } 
+
 } 
