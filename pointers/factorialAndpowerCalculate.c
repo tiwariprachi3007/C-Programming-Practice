@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
 void power_fact(float ,int ,int ,float*,int *);
-
 int main() {
     float a, pow;
     int b, number, factorial;
