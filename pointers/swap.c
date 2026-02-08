@@ -16,7 +16,7 @@ void swap(int *ptr1,int *ptr2){
     printf("value of ptr2 is %d\n",*ptr2);
     int temp=*ptr1;
     *ptr1=*ptr2;
-    *ptr2=temp;
+    *ptr2=temp; 
     printf("value of ptr1 is %d\n",*ptr1);
     printf("value of ptr2 is %d\n",*ptr2);
 }
