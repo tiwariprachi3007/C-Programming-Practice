@@ -1,0 +1,4 @@
+This is my first write operation
+square of 3 is 9
+This is my first write operation
+square of 3 is 9
