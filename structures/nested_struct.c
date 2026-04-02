@@ -13,8 +13,8 @@ int main(){
         struct address a;
 
     };
-    struct emp e={"jeru","25101280798","nagpur","10"};
-    printf("name=%s\n",e.name,e.a.phone);
+    struct emp e={"jeru","25101280798","nagpur",10};
+    printf("name=%s\n",e.name);
     printf("phone=%s\n",e.a.phone);
     return 0;
 }
