@@ -84,6 +84,7 @@ This repository is ideal for first-year B.Tech students learning, practicing, an
 - strlen.c – Finds length of a string using strlen()
 - VowelAndConCount.c – Counts vowels and consonants in a string
 
+
 8. String2
 - initialization.c – String initialization examples
 - reverseUsingPointer.c – Reverse string using pointers
